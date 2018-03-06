@@ -1,0 +1,5 @@
+-----------------------------------------------------------------------------------------
+-- Title: TouchAndDrag
+-- Name: MariaT
+-- Course: ICS2O/3C
+-- This program it displays images that can be dragged around on the screen
